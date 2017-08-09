@@ -1,4 +1,0 @@
-Your dynamic content. The naming convention of these files is important, abd nust follow the format:
-YEAR-MONTH-DAY-tittle.MARKUP.
-The permalinks can be costomized for each post, but te date and markup language
-are determined solely by the filename.
