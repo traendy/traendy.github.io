@@ -1,0 +1,2 @@
+These are the partials that can be mixed and matched by yout layouts and posts to facilitate reuse.
+The liquid tag {% include file.ext %} can be usesd to include the patial in _includes/file.ext

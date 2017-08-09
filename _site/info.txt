@@ -1,0 +1,1 @@
+This is where the generated site will be placed once Jekyll is done transforming it. It is porbably a good idea ti add this to your .gitignore file.
