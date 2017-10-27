@@ -25,7 +25,7 @@ So we started and after a short time we already had quite a lot to show and play
 
 ## Error
 Anyway after we implemented a objective C library for some reasons and its pendent in java, we faced a cryptic error:
-> JSON value '<null>' of type NSNull cannot be converted to NSString
+`JSON value '<null>' of type NSNull cannot be converted to NSString`
 
 You might think, well, thats an easy solveable problem. This guy is nuts.
 
