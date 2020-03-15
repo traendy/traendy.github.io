@@ -28,6 +28,7 @@ twitter_username: 111soenke111
 github_username: traendy
 
 # Build settings
+theme: jekyll-theme-cayman
 remote_theme: nrandecker/particle
 plugins:
   - jekyll-feed
