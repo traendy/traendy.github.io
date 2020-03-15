@@ -28,7 +28,7 @@ twitter_username: 111soenke111
 github_username:  traendy
 
 # Build settings
-remote_theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
