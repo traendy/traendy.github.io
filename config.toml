@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "johndoe"
+title = "Sönke Peters"
 theme = "hugo-code"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -14,16 +14,16 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    info = "Full Stack DevOps and Magician"
-    description = "John Doe's personal website"
+    author = "Sönke Peters"
+    info = "Software Developer"
+    description = "Sönke's internet presence."
     keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/avatar.png"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = ""
 
     hidecredits = false
     hidecopyright = false
@@ -38,17 +38,17 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github fa-2x"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/traendy/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
     weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://www.linkedin.com/in/s%C3%B6nke-peters-ba6780181/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/111soenke111/"
 
 # Menu links
 [[menu.main]]
