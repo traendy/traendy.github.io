@@ -3,7 +3,7 @@ title = "Sönke Peters"
 theme = "hugo-code"
 languagecode = "en"
 defaultcontentlanguage = "en"
-publishDir = "docs"
+publishDir = "."
 paginate = 20
 canonifyurls = true
 
