@@ -28,7 +28,7 @@ twitter_username: 111soenke111
 github_username: traendy
 
 # Build settings
-remote_theme: tzuehlke/jekyll-uno-timeline
+remote_theme: nrandecker/particle
 plugins:
   - jekyll-feed
 
