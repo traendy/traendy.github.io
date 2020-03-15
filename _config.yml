@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sönke Peters
+title: Soenke Peters
 email: peters.soenke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Developer from Hamburg.
@@ -28,7 +28,7 @@ twitter_username: 111soenke111
 github_username:  traendy
 
 # Build settings
-theme: minima
+remote_theme:  tzuehlke/jekyll-uno-timeline 
 plugins:
   - jekyll-feed
 
